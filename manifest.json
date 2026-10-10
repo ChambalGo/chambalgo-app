@@ -1,0 +1,13 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "ChambalGo",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "ChambalGo",
+  "start_url": "/",
+  "theme_color": "#07864f",
+  "id": "chambalgo-app",
+  "description": "ChambalGo – Order food and everyday essentials online, with a vision to serve customers across India."
+}
